@@ -4,6 +4,7 @@ source "https://rubygems.org"
 
 # gem "rails"
 gem "jekyll"
+gem "chulapa-jekyll"
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
